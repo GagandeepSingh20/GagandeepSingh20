@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,js,git,github,vscode,figma,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=Django,tailwind,python,js,git,github,vscode,c,cpp,html,css,bootstrap,jupyternotebook" />
 </p>
 
 ---
@@ -45,8 +45,8 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/dhruvaarya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:dhruvaa866@email.com"><img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gagandeep-singh-choudhary-855a53242/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:gchoudhary16555@email.com"><img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,9 +54,10 @@
 ## 🧠 Currently Learning
 
 - Advanced DSA
-- AI Integration with Full Stack
+- Django
+- Machine Learning 
 - System Design Basics
-- OpenAI & Gemini APIs
+  
 
 ---
 

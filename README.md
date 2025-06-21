@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gagandeep Singh Choudhary</h1>
+ <h1 align="center">Hi 👋, I'm Gagandeep Singh Choudhary</h1>
 <h3 align="center">Frontend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -22,14 +22,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvaaArya05&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvaaArya05&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
----
 
 ## 🔥 Featured Projects
 

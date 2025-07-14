@@ -16,8 +16,8 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,tailwind,python,js,git,github,vscode,c,cpp,html,css,bootstrap,anaconda,tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tailwind,js,git,github,vscode,c,cpp,html,css,bootstrap,anaconda" />
 </p>
 
 ---
@@ -28,8 +28,18 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Amazon Clone](https://github.com/dhruvaaArya05/Social-Media-Project) | A pixel perfect Amazon home page clone built with Html, Css,Javascript,Bootstrap. | HTML,CSS,JAVASCRIPT, BOOTSTRAP |
-| [EcoNest](https://github.com/dhruvaarya/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
+| [ReWear](https://github.com/dhruvaaArya05/ReWear) | Community Clothing Exchange Platform | MERN, Tailwind |
+| [EcoNest](https://github.com/GagandeepSingh20/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
+| [Amazon Clone](https://github.com/GagandeepSingh20/Amazon-Clone) | A pixel perfect Amazon home page clone built with Html, Css,Javascript,Bootstrap. | HTML,CSS,JAVASCRIPT, BOOTSTRAP |
+---
+##  GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GagandeepSingh20&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GagandeepSingh20&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh20&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -45,10 +55,8 @@
 ## 🧠 Currently Learning
 
 - Advanced DSA
-- Django
-- TensorFlow
-- Machine Learning 
-- System Design Basics
+- Machine Learning
+- Operating System
 
 ---
 

@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tailwind,js,git,github,vscode,c,cpp,html,css,bootstrap,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,tailwind,js,git,github,vscode,c,cpp,html,css,bootstrap,anaconda"/>
 </p>
 
 ---
@@ -36,9 +36,10 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GagandeepSingh20&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GagandeepSingh20&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=GagandeepSingh20&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh20&layout=compact&theme=tokyonight)
+
 
 
 ---

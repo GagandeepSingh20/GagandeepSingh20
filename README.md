@@ -1,15 +1,15 @@
  <h1 align="center">Hi 👋, I'm Gagandeep Singh Choudhary</h1>
-<h3 align="center">Frontend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20%7C%20Frontend%20Dev%20%7C%20AI%20Explorer;Always%20Learning%20and%20Building..." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20|%20AI%20/%20ML;Always%20Learning%20and%20Building..." />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 I`m currently pursuing my **Bachelor's in Computer Science Engineering**
-- 💡 Exploring Generative AI and building innovative projects  
+- 💡 Exploring ML/AI and building innovative projects  
 - 🧠 Always learning something new every day!
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tailwind,js,git,github,vscode,c,cpp,html,css,bootstrap,anaconda"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html,css,bootstrap,anaconda"/>
 </p>
 
 ---
@@ -28,6 +28,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C, integrating an LRU (Least Recently Used) caching system  |C, Socket Programming, Semaphores, LRU Cache, Makefile|
 | [ReWear](https://github.com/dhruvaaArya05/ReWear) | Community Clothing Exchange Platform | MERN, Tailwind |
 | [EcoNest](https://github.com/GagandeepSingh20/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
 | [Amazon Clone](https://github.com/GagandeepSingh20/Amazon-Clone) | A pixel perfect Amazon home page clone built with Html, Css,Javascript,Bootstrap. | HTML,CSS,JAVASCRIPT, BOOTSTRAP |

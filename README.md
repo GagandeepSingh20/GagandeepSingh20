@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html,css,bootstrap,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,git,github,vscode,html,css,bootstrap,anaconda" />
 </p>
 
 ---
@@ -53,9 +53,15 @@
   <a href="https://www.linkedin.com/in/gagandeep-singh-choudhary-855a53242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+   <a href="https://x.com/Gagan_deep20" >
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
+</a>
   <a href="mailto:gchoudhary16555@email.com">
     <img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+
+
 </p>
 
 ---

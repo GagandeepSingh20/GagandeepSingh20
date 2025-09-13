@@ -23,6 +23,10 @@
 </p>
 
 ---
+<!-- LeetCode stats card (example) -->
+![LeetCode Stats](https://leetcode-stats.vercel.app?username=Gagan_deep2004)
+
+---
 
 ## 🔥 Featured Projects
 

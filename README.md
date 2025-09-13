@@ -19,12 +19,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git" />
 </p>
 
 ---
-<!-- LeetCode stats card (example) -->
-![LeetCode Stats](https://leetcode-stats.vercel.app?username=Gagan_deep2004)
+<h2 align="center"> Leetcode Stats </h2>
+<br>
+<div align="center">
+    <a href="https://leetcard.jacoblin.cool/Gagan_deep2004?theme=dark&font=Radio%20Canada&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/Gagan_deep2004?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
+  </a>
+</div>
 
 ---
 

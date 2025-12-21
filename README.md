@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />  
   <img src="https://skillicons.dev/icons?i=mysql,git" />
  
 </p>

@@ -36,12 +36,11 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>  
-  <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>
+<p align="center"> 
   <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>
     <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="jyot" height="200" width="200" /></a>
-  
+    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>
+   <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>  
 </p>
 
 ---

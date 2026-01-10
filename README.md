@@ -23,7 +23,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />  
-  <img src="https://skillicons.dev/icons?i=mysql,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,vscode" />
  
 </p>
 
@@ -77,7 +77,7 @@
    <a href="https://x.com/Gagan_deep20" >
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
 </a>
-  <a href="mailto:gchoudhary16555@email.com">
+  <a href="mailto:gchoudhary16555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 

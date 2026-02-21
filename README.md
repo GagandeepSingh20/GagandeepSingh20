@@ -19,11 +19,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />  
-  <img src="https://skillicons.dev/icons?i=mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgresql,git,vscode,anaconda" />
  
 </p>
 
@@ -50,9 +50,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C with LRU cache mechanism | C, Socket Programming, Semaphores, LRU Cache, Makefile |
+| [TCS Stock Price Predictor](https://github.com/GagandeepSingh20/TCS-Stock-Price-Predictor) | A Machine Learning based stock trend prediction system using historical price data | python, sklearn, pandas, numpy |
 | [ReWear](https://github.com/dhruvaaArya05/ReWear) | A community clothing exchange platform for sustainable fashion | MERN, Tailwind |
-| [EcoNest](https://github.com/GagandeepSingh20/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
-| [Amazon Clone](https://github.com/GagandeepSingh20/Amazon-Clone) | Pixel-perfect Amazon homepage clone | HTML, CSS, JavaScript, Bootstrap |
 
 ---
 

@@ -36,12 +36,12 @@
   </a>
 </div>
 
-<!-- <p align="center"> 
-  <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>
-    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>
-   <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="200" width="200" /></a>  
-</p> -->
+<p align="center"> 
+  <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>
+    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="jyot" height="150" width="150" /></a>
+    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>
+   <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>  
+</p>
 
 ---
 
@@ -50,8 +50,9 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C with LRU cache mechanism | C, Socket Programming, Semaphores, LRU Cache, Makefile |
-| [TCS Stock Price Predictor](https://github.com/GagandeepSingh20/TCS-Stock-Price-Predictor) | A Machine Learning based stock trend prediction system using historical price data | python, sklearn, pandas, numpy |
-| [ReWear](https://github.com/dhruvaaArya05/ReWear) | A community clothing exchange platform for sustainable fashion | MERN, Tailwind |
+| [RAG Application](https://github.com/GagandeepSingh20/gemini-rag-app) | A RAG-based PDF Question Answering system  | Python, LangChain, FAISS, and Gemini API |
+| [Transformer Health Monitoring System](https://github.com/GagandeepSingh20/ABB-EngineeredX-2.0) | A working proof-of-concept digital twin that combines physics-based modeling with machine learning to monitor power transformer health, detect anomalies, | Python, Scikit-learn, XGBoost, Streamlit |
+| [TCS Stock Price Predictor](https://github.com/GagandeepSingh20/TCS-Stock-Price-Predictor) | A Machine Learning based stock trend prediction system using historical price data | Python, Sklearn, Pandas, NumPy |
 
 ---
 

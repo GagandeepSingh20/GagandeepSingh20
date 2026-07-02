@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Gagandeep Singh Choudhary</h1>
 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=750&lines=AI%2FML+Enthusiast+%7C+Passionate+Coder;🧠+Always+Learning+and+Building...." alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4F46E5,50:0EA5E9,100:14B8A6&text=Gagandeep%20Singh%20Choudhary&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=950&lines=Turning+ideas+into+AI-powered+products;Retrieval-Augmented+Generation+(RAG)+Developer;Open+Source+Contributor+to+JupyterLab+and+Apache+Superset;Competitive+Programmer+%7C+Always+Building)](https://git.io/typing-svg)
+
+</div>
 
 
 ---
 
 ## 🚀 About Me
-- 🎓 I'm currently pursuing my **Bachelor's in Computer Science Engineering**
-- 🤖 Exploring **Machine Learning** and **Generative AI**
-- 💡 I enjoy solving real-world problems through **code + creativity**
-- 🧠 Always learning something new every day!
 
+- 🎓 Final-year **Computer Science Engineering** student passionate about building impactful software.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**.
+- 💻 Love developing scalable **backend systems**, AI-powered applications, and full-stack projects.
+- 🌱 Active **Open Source Contributor** and hackathon enthusiast who enjoys collaborating on real-world projects.
+- 🧩 Strong believer in learning by building, continuously sharpening my problem-solving skills through DSA and hands-on development.
+- 🚀 Currently focused on creating AI applications that solve practical problems.
 ---
 
 ## 🛠️ Tech Stack
@@ -38,7 +42,7 @@
 
 <p align="center"> 
   <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>
-    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="jyot" height="150" width="150" /></a>
+    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="jyot" height="150" width="150" /></a>
     <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>
    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>  
 </p>

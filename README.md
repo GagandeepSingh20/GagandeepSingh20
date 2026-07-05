@@ -1,12 +1,10 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4F46E5,50:0EA5E9,100:14B8A6&text=Gagandeep%20Singh%20Choudhary&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving\&height=270\&color=0:4ade80,50:0F766E,100:4ade80\&text=Gagandeep%20Singh%20Choudhary\&fontColor=ffffff\&fontSize=50\&fontAlignY=42\&desc=AI%20Developer%20%7C%20Open%20Source%20Contributor\&descAlignY=65\&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=950&lines=Turning+ideas+into+AI-powered+products;Retrieval-Augmented+Generation+(RAG)+Developer;Open+Source+Contributor+to+JupyterLab+and+Apache+Superset;Competitive+Programmer+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&duration=3000\&pause=1000\&color=22C55E\&center=true\&vCenter=true\&width=900\&lines=Building+AI-powered+systems+%26+products;Exploring+RAG%2C+LLMs+%26+Generative+AI;Contributing+to+Open+Source;Python+%7C+C%2B%2B+%7C+AI+%7C+Backend)](https://git.io/typing-svg)
 
 </div>
-
 
 ---
 

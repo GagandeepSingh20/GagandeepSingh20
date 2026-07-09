@@ -8,6 +8,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Final-year **Computer Science Engineering** student passionate about building impactful software.
@@ -59,7 +67,9 @@
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img alt="Github" src="https://visitor-badge.laobi.icu/badge?page_id=GagandeepSingh20.visitor-badge" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GagandeepSingh20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>

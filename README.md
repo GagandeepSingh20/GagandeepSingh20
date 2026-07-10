@@ -99,16 +99,8 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced Data Structures & Algorithms (DSA)
-- Machine Learning & Generative AI
-- Operating Systems & Computer Networks
-
----
-
 ## 💭 **DEVELOPER PHILOSOPHY**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)
 
 ---

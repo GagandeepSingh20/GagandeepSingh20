@@ -30,9 +30,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,fastapi,pytorch,sklearn" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />   -->
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,anaconda" />
  
 </p>
@@ -107,8 +107,8 @@
 
 ---
 
-## 📌 Fun Fact
+## 💭 **DEVELOPER PHILOSOPHY**
 
-> *“I build not just with code, but with curiosity and purpose.”* 💡
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)
 
 ---

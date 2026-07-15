@@ -66,17 +66,32 @@
 
 ---
 
-## 📊 GitHub Stats
+### 👨🏻‍💻 GitHub Stats
+
 <p align="center">
-  <img alt="Github" src="https://visitor-badge.laobi.icu/badge?page_id=GagandeepSingh20.visitor-badge" />
+<img src="https://komarev.com/ghpvc/?username=GagandeepSingh20&style=for-the-badge&color=blue&logo=github" alt="Profile views"/>
+<img src="https://img.shields.io/github/stars/GagandeepSingh20?label=Stars&style=for-the-badge&color=green&logo=github"/>  
+<img src="https://img.shields.io/github/followers/GagandeepSingh20?label=Followers&style=for-the-badge&color=yellow&logo=github"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GagandeepSingh20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GagandeepSingh20&theme=tokyonight" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh20&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<div align="center">
+<p>
+
+![GitHub Stats](https://github-stats-extended-GagandeepSingh20.vercel.app/api?username=GagandeepSingh20&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-stats-extended-GagandeepSingh20.vercel.app/api/top-langs?username=GagandeepSingh20&layout=donut-vertical&langs_count=8&theme=dark)
+
 </p>
+
+<p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GagandeepSingh20&theme=dark)](https://git.io/streak-stats)
+
+</p>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GagandeepSingh20&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" alt="Activity Graph" />
+</p>
+</div>
 
 ---
 

@@ -6,13 +6,6 @@
 
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -53,16 +46,6 @@
    <a href="https://leetcode.com/Gagan_deep2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-gagan" height="150" width="150" /></a>  
 </p>
 
----
-
-## 🔥 Featured Projects 🔥
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C with LRU cache mechanism | C, Socket Programming, Semaphores, LRU Cache, Makefile |
-| [RAG Application](https://github.com/GagandeepSingh20/gemini-rag-app) | A RAG-based PDF Question Answering system  | Python, LangChain, FAISS, and Gemini API |
-| [Transformer Health Monitoring System](https://github.com/GagandeepSingh20/ABB-EngineeredX-2.0) | A working proof-of-concept digital twin that combines physics-based modeling with machine learning to monitor power transformer health, detect anomalies, | Python, Scikit-learn, XGBoost, Streamlit |
-| [TCS Stock Price Predictor](https://github.com/GagandeepSingh20/TCS-Stock-Price-Predictor) | A Machine Learning based stock trend prediction system using historical price data | Python, Sklearn, Pandas, NumPy |
 
 ---
 
@@ -95,6 +78,25 @@
 
 ---
 
+## 🔥 Featured Projects 🔥
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C with LRU cache mechanism | C, Socket Programming, Semaphores, LRU Cache, Makefile |
+| [RAG Application](https://github.com/GagandeepSingh20/gemini-rag-app) | A RAG-based PDF Question Answering system  | Python, LangChain, FAISS, and Gemini API |
+| [Transformer Health Monitoring System](https://github.com/GagandeepSingh20/ABB-EngineeredX-2.0) | A working proof-of-concept digital twin that combines physics-based modeling with machine learning to monitor power transformer health, detect anomalies, | Python, Scikit-learn, XGBoost, Streamlit |
+| [TCS Stock Price Predictor](https://github.com/GagandeepSingh20/TCS-Stock-Price-Predictor) | A Machine Learning based stock trend prediction system using historical price data | Python, Sklearn, Pandas, NumPy |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GagandeepSingh20/GagandeepSingh20/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -116,6 +118,6 @@
 
 ## 💭 **DEVELOPER PHILOSOPHY**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap,%20Show%20me%20the%20code.&author=Linus%20Torvalds)
 
 ---

@@ -6,26 +6,27 @@
 
 </div>
 
+---
+
+### 👤 About Me 
+
+* 🎓 Final-year Computer Science Engineering student passionate about building impactful software.
+  
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**.
+
+* ⚙️ Love developing scalable **backend systems**, AI-powered applications, and full-stack projects.
+
+* 💻 Active **Open Source Contributor** and hackathon enthusiast who enjoys collaborating on real-world projects.
+
+* 🌱 Always looking for challenging problems — from algorithmic puzzles to system design and architecture decisions
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Final-year **Computer Science Engineering** student passionate about building impactful software.
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**.
-- 💻 Love developing scalable **backend systems**, AI-powered applications, and full-stack projects.
-- 🌱 Active **Open Source Contributor** and hackathon enthusiast who enjoys collaborating on real-world projects.
-- 🧩 Strong believer in learning by building, continuously sharpening my problem-solving skills through DSA and hands-on development.
-- 🚀 Currently focused on creating AI applications that solve practical problems.
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,fastapi,pytorch,sklearn" />
-   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />   -->
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,anaconda" />
  
 </p>
